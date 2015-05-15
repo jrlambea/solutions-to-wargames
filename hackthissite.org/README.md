@@ -93,3 +93,36 @@ This level seems a lot trickier then it actually is, and it helps to have an und
 Se tendrá que aprovechar el formulario del nivel 8 para realizar otra inyección de SSI
 
 **Password:** f5f7a30e
+
+**> Level 10**
+
+Enter password
+Please enter a password to gain access to level 10
+
+Cookie Spoofing:
+
+    Host:                 www.hackthissite.org
+    Name:                 level10_authorized
+    Path:                 /missions/basic/10/
+    Content:              yes
+    Content raw:          yes
+    Expires:              At end of session
+    Expires raw:          0
+    Send for:             Any type of connection
+    Send for raw:         false
+    Created:              Thursday, May 14, 2015 3:48:08 PM
+    Created raw:          1431611288292000
+    Last accessed:        Thursday, May 14, 2015 3:54:04 PM
+    Last accessed raw:    1431611644332000
+    HTTP only:            No
+    HTTP only raw:        false
+    This domain only:     No
+    This domain only raw: false
+    Policy:               no information available
+    Policy raw:           0
+    Status:               no information available
+    Status raw:           0
+    ---
+
+No hay password
+
