@@ -16,3 +16,11 @@ Find the password (easy)
 **Correct serials**: http://hackthissite.org/application/app2/keys123.txt
 
 **Mission password**: liberation
+
+**> Application Challenge 3**
+
+Find the password. (easy)
+
+Wireshark, /etc/hosts & ncat
+
+**Mission password**: fireyourboss
