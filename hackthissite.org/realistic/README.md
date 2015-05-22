@@ -65,4 +65,14 @@ Y el texto sin cifrar:
     John Sculley
     ToxiCo Industrial Chemicals
 
+**> Realistic 7:   What's Right For America**
 
+A homophobic hate group is spreading their conservative propaganda of blind obedience and bigoted war mongering. Help tolerance activists take over their website of ignorance and discrimination. 
+
+    https://www.hackthissite.org/missions/realistic/7/showimages.php?file=images/admin/.htpasswd
+
+entonces:
+
+    $ john hash.txt
+    
+**Usuario/Password**: administrator/shadow
